@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d65995d1-cfeb-ea12-fce0-b83fbc73a66b
 resourcetype: Document
 title: 'Political Science 17.504: Requirements and Assignments'
 uid: 34ad0ec3-2603-47ed-baab-037c461147ae
