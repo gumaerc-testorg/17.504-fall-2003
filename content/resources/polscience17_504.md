@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Details on the writing assignments for the course.
-file: /courses/17-504-ethnic-politics-i-fall-2003/34ad0ec3260347edbaab037c461147ae_polscience17_504.pdf
+file: /ol-ocw-studio-app/courses/17-504-ethnic-politics-i-fall-2003/34ad0ec3260347edbaab037c461147ae_polscience17_504.pdf
 file_size: 12442
 file_type: application/pdf
 learning_resource_types:
